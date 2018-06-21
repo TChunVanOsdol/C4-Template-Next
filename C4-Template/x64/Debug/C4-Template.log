@@ -1,0 +1,13 @@
+﻿  Buff.cpp
+c:\users\todd\source\repos\c4-template-master\c4-template\map.h(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\todd\source\repos\c4-template-master\c4-template\map.h(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\todd\source\repos\c4-template-master\c4-template\map.h(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\todd\source\repos\c4-template-master\c4-template\map.h(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Enemy.cpp
+  Character.cpp
+  C4-Template.vcxproj -> C:\Users\Todd\source\repos\C4-Template-master\x64\Debug\C4-Template.exe
